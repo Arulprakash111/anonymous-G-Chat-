@@ -13,6 +13,7 @@ Required
 Installation Steps
 
 Step 1: Clone
+
         git clone https://github.com/Arulprakash111/anonymous-G-Chat-.git
         
 Step 2: Run the command
