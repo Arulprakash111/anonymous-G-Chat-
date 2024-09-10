@@ -16,6 +16,7 @@ Step 1: Clone
         git clone https://github.com/Arulprakash111/anonymous-G-Chat-.git
         
 Step 2: Run the command
+
 python3 install.py
 
 Step 3: Open the ngrok , Copy the Token
@@ -25,6 +26,7 @@ Step 4: After paste the token give .....
 Enter
 
 Step 5: run
+
 python G-Chat.py
 
 Connect as a client
