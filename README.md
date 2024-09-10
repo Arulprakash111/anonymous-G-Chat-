@@ -1,11 +1,14 @@
 Required
-1. Python3
+1. Python
+2. python3
 
     requests
+   
     cryptography
+   
     pycryptodome
 
-2. Ngrok
+3. Ngrok
 
 Installation Steps
 
