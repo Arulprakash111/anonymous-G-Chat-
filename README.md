@@ -10,17 +10,32 @@ Required
 Installation Steps
 
 Step 1: Clone
-Step 2: python3 install.py
-Step 3: Enter the ngrok token
-Step 4: Enter
-Step 5: python G-Chat.py
+        git clone https://github.com/Arulprakash111/anonymous-G-Chat-.git
+        
+Step 2: Run the command
+python3 install.py
+
+Step 3: Open the ngrok , Copy the Token
+Enter the ngrok token
+
+Step 4: After paste the token give .....
+Enter
+
+Step 5: run
+python G-Chat.py
 
 Connect as a client
-Clone the repository
-python G-Chat.py
-select 2
-Enter your name
-Enter the key
+
+Step 1: Clone the repository
+
+Step 2: python G-Chat.py
+
+Step 3: select 2
+
+Step 4: Enter your name
+
+Step 5: Enter the key
+
 
                                                                     After chat and Enjoy it
 
