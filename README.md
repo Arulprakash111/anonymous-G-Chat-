@@ -30,7 +30,7 @@ Step 5: run
 
 python G-Chat.py
 
-Connect as a client
+                                                                       Connect users client
 
 Step 1: Clone the repository
 
