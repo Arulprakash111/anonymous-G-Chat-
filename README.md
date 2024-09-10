@@ -30,7 +30,7 @@ Step 5: run
 
 python G-Chat.py
 
-                                                     Connect users client
+                                                     Connect users
 
 Step 1: Clone the repository
 
@@ -43,5 +43,5 @@ Step 4: Enter your name
 Step 5: Enter the key
 
 
-                                                                    After chat and Enjoy it
+                                              After chat and Enjoy it
 
