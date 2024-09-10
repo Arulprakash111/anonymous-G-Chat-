@@ -8,7 +8,7 @@ def home_logo():
          ##    ##     ##   ##     ##    ##   ##    ##     ##   ##     ##
         ####   ##     ##   ##     ##     #####      #######     #######
     
-                                                        Created by Arul Prakash.R
+                                        Created by Arul Prakash.R
     """)
 
 def Main():
