@@ -14,11 +14,11 @@ Required
 
 Step 1: Clone
 
-git clone https://github.com/Arulprakash111/anonymous-G-Chat-.git
+  git clone https://github.com/Arulprakash111/anonymous-G-Chat-.git
         
 Step 2: Run the command
 
-python3 install.py
+  python3 install.py
 
 Step 3: Open the ngrok , Copy the Token
 Enter the ngrok token
